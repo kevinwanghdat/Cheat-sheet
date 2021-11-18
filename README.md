@@ -1,2 +1,2 @@
-# Cheat-sheet
+# Statistical-Cheat-sheet
 Statistical Modelling Cheat Sheet
